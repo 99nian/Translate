@@ -2,7 +2,7 @@
 快捷翻译,驼峰法快速命名,支持驼峰法自动拆开翻译(Quick translation, quick naming of hump method, and support automatic disassembly translation of hump method)
 
 
-#TranSlate is object
+#TranSlate is 工程文件
 
 ![image](https://user-images.githubusercontent.com/75463215/203544999-ce0da346-32cd-4dcd-a5b9-248e56f44682.png)
 
